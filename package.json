@@ -1,7 +1,7 @@
 {
-  "name": "search-auto-complete",
+  "name": "react-starter-project",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "src/index.jsx",
   "scripts": {
     "start": "webpack serve --mode=development"
   },
